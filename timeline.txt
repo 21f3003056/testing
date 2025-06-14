@@ -1,0 +1,20 @@
+# 14 june
+1. master json
+2. video session 2
+
+# 15 june 11:00
+1. beautiful soup
+2. scrapping data 2 (course content)
+3. embedding start
+4. video session 3
+ 
+
+# 16 june
+1. finish embedding
+2. video session 4
+3. start of making an applcation
+
+# 17 june
+1. video sessioon 5
+2. finish of deployment application
+3. verify its working
