@@ -1,12 +1,13 @@
 # 14 june
-1. master json
+1. master json (demi vesion)
 2. video session 2
 
 # 15 june 11:00
 1. beautiful soup
 2. scrapping data 2 (course content)
 3. embedding start
-4. video session 3
+4. promptfoo
+5. video session 3
  
 
 # 16 june
